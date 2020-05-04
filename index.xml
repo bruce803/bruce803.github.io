@@ -1,0 +1,23 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>My New Hugo Site </title>
+        <link>https://bruce803.github.io/</link>
+        <language>en-us</language>
+        <author></author>
+        <rights>(c) 2020</rights>
+        <updated>2020-05-04 17:34:29 &#43;0800 CST</updated>
+
+        
+        
+            <item>
+            <title>Posts</title>
+            <link>https://bruce803.github.io/post/</link>
+            <pubDate>Mon, 04 May 2020 17:34:29 CST</pubDate>
+            <author></author>
+            <guid>https://bruce803.github.io/post/</guid>
+            <description></description>
+            </item>
+        
+        
+    </channel>
+</rss>
